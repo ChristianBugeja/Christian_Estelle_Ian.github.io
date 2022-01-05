@@ -1,0 +1,43 @@
+* {
+    font-family: 'Arimo', sans-serif;
+}
+
+.WelcomeNote {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: start;
+    background-color: #f8e5b7;
+}
+
+.HorizontalLine {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/images/hr-12.png) repeat-x 0 0;
+    border: 0;
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom:10px;
+
+}
+
+.artist_name {
+    padding-top: 5px;
+}
+
+.meettheartists {
+    padding-bottom: 20px;
+}
+
+.gallery{
+    padding-top: 10px;
+}
+
+#intro_text{
+    padding-top: 20px;
+}
+
+#art_container{
+    padding-top:20px;
+    padding-bottom:30px;
+}
