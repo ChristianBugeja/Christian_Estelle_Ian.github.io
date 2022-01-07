@@ -70,7 +70,7 @@ button:hover{
 	margin-left: 13px;
 	list-style: none;
 	height: 150px;
-	align-items: top;
+	align-items: start;
 }
 #T1{
 	width: 80px;
@@ -177,9 +177,8 @@ button:hover{
 	margin-left: 12px;
 	list-style: none;
 	height: 60px;
-	align-items: top;
+	align-items: start;
 }
-
 
 .JS{
 	margin-left: 130px;
@@ -271,7 +270,7 @@ button:hover{
 	margin-left: 15px;
 	margin-top: 45px;
 	height: 111px;
-	width:76px;
+	width:79px;
 }
 #GDN{
 	margin-top: 72px;
@@ -286,7 +285,7 @@ button:hover{
 	margin-left: 16px;
 	list-style: none;
 	height: 160px;
-	align-items: top;
+	align-items: start;
 }
 
 #B1{
@@ -383,9 +382,7 @@ button:hover{
 	margin-top: 0px;
 	margin-left: 5px;
 	margin-right: 5px;
-	border-color: #FFFFFF;
-	border-width: 10px;
-	border-style: solid;
+	padding:10px;
 }
 .page_title{
 	font-size: 1.5em;
@@ -395,19 +392,15 @@ button:hover{
 	margin-top: 30px;
 	margin-left: 445px;
 	margin-right: 5px;
-	border-color: #FFFFFF;
-	border-width: 10px;
-	border-style: solid;
-	padding: 0;
+	padding:10px;
+	padding-right: 70px;
 	text-align: end;
-	padding-right: 60px;
 	height: 60px;
 	line-height: 20px;
 }
 .profile_box{
 	background: #FFFFFF;
 	width: 900px;
-
 	padding: 10px;
 
 }
@@ -482,4 +475,10 @@ button:hover{
 	padding-left:5px;
 	padding-right:5px;
 	margin-left:20px;
+	height:50px;
+}
+
+.select_screen_button{
+	font-size:2em;
+	line-height: 40px;
 }
